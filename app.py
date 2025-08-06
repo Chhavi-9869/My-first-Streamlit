@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("My first Streamlit app")
+st.title("Chhavi Streamlit app")
 st.write("This is the place where you can write any description or any text")
 #For slider
 slider_value=st.slider("Select a value", 0, 100, 50)
